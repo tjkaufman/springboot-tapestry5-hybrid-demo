@@ -8,7 +8,7 @@
         <version>2.7.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.sighlentroot</groupId>
+    <groupId>com.tjkaufman</groupId>
     <artifactId>springboot-tapestry-hybrid-demo</artifactId>
     <version>5.8.2</version>
     <name>springboot-tapestry-hybrid-demo</name>
@@ -19,7 +19,7 @@
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <tapestry.version>5.8.2</tapestry.version>
-        <start-class>com.sighlentroot.tutorial.App</start-class>
+        <start-class>com.tjkaufman.tutorial.App</start-class>
     </properties>
     <dependencies>
         <dependency>
